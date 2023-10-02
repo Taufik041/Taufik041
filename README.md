@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<[![An image of @taufik041's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufik041)](https://holopin.io/@taufik041)
+[![An image of @taufik041's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufik041)](https://holopin.io/@taufik041)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning Algorithms
