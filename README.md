@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning fastAPI, ML Algorithms
 - 👯 I’m looking to collaborate on python
 - 🤔 I’m looking for help with python, backend stuff
-- 📫 How to reach me: [@Taufik4051](https://x.com/Taufik4051) on X
+- 📫 How to reach me: [Email id](https://mail.google.com/mail/u/0/?fs=1&to=taufik4051@gmail.com&su=SUBJECT&body=BODY&tf=cm)
