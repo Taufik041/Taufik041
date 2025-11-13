@@ -4,16 +4,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taufik Khan
 ===================================================================================================================================
 
-Data Scientist
+Software Developer
 --------------
 
-I've been learning to code for 3 years now. I started with python and have really found a passion for Machine Learning and Data Science
+I've been learning to code for 4 years now. I started with python and have really found a passion for Machine Learning.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [taufik041.github.io](http://taufik041.github.io/)
 * ✉️  You can contact me at [taufik4051@gmail.com](mailto:taufik4051@gmail.com)
 * 🚀  I'm currently working on [Real-Time Weather Analytics Pipeline 🌦️](http://github.com/Taufik041/Weather_analytics)
-* 🧠  I'm learning React, FastAPI and Firebase
+* 🧠  I'm learning FastAPI and MLOps
 * 🤝  I'm open to collaborating on Python or Java oriented projects
 * ⚡  Looking for opportunities in data science, ML and python development
 
