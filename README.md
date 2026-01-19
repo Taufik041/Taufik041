@@ -12,10 +12,10 @@ I've been learning to code for 4 years now. I started with python and have reall
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [taufik041.github.io](http://taufik041.github.io/)
 * ✉️  You can contact me at [taufik4051@gmail.com](mailto:taufik4051@gmail.com)
-* 🚀  I'm currently working on [Real-Time Weather Analytics Pipeline 🌦️](http://github.com/Taufik041/Weather_analytics)
-* 🧠  I'm learning FastAPI and MLOps
-* 🤝  I'm open to collaborating on Python or Java oriented projects
-* ⚡  Looking for opportunities in data science, ML and python development
+* 🚀  I'm currently working on
+* 🧠  I'm learning FastAPI and DevOps
+* 🤝  I'm open to collaborating on Python oriented projects
+* ⚡  Looking for opportunities in DevOPS, Backend
 
 ### Skills
 
