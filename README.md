@@ -9,7 +9,6 @@ Software Developer
 
 I've been learning to code for 4 years now. I started with python and have really found a passion for Machine Learning.
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [taufik041.github.io](http://taufik041.github.io/)
 * ✉️  You can contact me at [taufik4051@gmail.com](mailto:taufik4051@gmail.com)
 * 🚀  I'm currently working on
