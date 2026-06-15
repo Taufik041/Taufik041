@@ -82,10 +82,10 @@
 
 <p align="left">
   <a href="https://github.com/Taufik041">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taufik041&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats-taufik.vercel.app/api?username=Taufik041&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Taufik041">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufik041&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-taufik.vercel.app/api/top-langs/?username=Taufik041&langs_count=8&layout=compact&hide=jupyter%20notebook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
 
